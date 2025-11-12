@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- GitHub Profile README by Revalinda -->
 
-<!--
-**revalindaph22/revalindaph22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.ibb.co/6ZkXJwM/pastel-banner-github.png" width="100%" alt="Revalinda Creates"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm <b>Revalinda Putri Hadinata</b></h1>
+<p align="center">
+  💻 Aspiring <b>UI/UX Designer</b> & <b>Frontend Developer</b> | 🎨 Creative Thinker | ✨ Soft Aesthetic Soul
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+> “Design is not just what it looks like and feels like, design is how it works.” – Steve Jobs  
+
+- 📍 Based in Indonesia   
+- 💻 Exploring the world of **UI/UX Design** and **Frontend Development**  
+- 🎓 Currently studying at **Politeknik Negeri Malang (Polinema)**
+- 🪞 Passionate about **visual storytelling** & **clean design**  
+- ☁️ Loves soft tones, minimal layouts, and pastel aesthetics  
+- 🫶 Always open to collaboration and sharing creative ideas  
+
+---
+
+### My Design Tools & Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva,html,css,java,vscode,github" />
+</p>
+
+---
+
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revalindaph22&theme=rose_pine&hide_border=true" height="160"/>
+</p>
+
+
+---
+
+
+### Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/revalinda-putri-hadinata" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/rreyvlin" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:revalindaph@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.figma.com/@revalindaputrih" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-FFE4E1?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center">Crafted by <b>Revalinda</b> 🌸</p>
