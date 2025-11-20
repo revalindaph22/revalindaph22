@@ -33,7 +33,8 @@
 ---
 
 
-### GitHub Stats
+<h2 align="center" style="color:#F8A9B8;">🌷 GitHub Stats</h2>
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true" 
@@ -53,12 +54,14 @@
   />
 </p>
 
-### 🏆 GitHub Trophy
+<h2 align="center" style="color:#F8A9B8;">🏆 GitHub Trophy</h2>
+
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=revalindaph22" 
   />
 </p>
+
 
 
 ---
