@@ -35,9 +35,27 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=revalindaph22&theme=rose_pine&hide_border=true" height="160"/>
+  <!-- Main Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=revalindaph22&show_icons=true&title_color=ff9ebd&icon_color=ff7aaa&text_color=d17288&bg_color=ffe6f0&hide_border=true" 
+    height="165"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=revalindaph22&background=ffe6f0&stroke=ffb6cc&ring=ff7aaa&fire=ff9ebd&currStreakNum=d17288&sideNums=d17288&currStreakLabel=ff7aaa&sideLabels=ff7aaa&dates=d17288&hide_border=true" 
+    height="165"
+  />
 </p>
+
+<!-- Language Card -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revalindaph22&layout=compact&title_color=ff9ebd&text_color=d17288&bg_color=ffe6f0&hide_border=true" 
+    height="165"
+  />
+</p>
+
 
 
 ---
