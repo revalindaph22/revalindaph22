@@ -30,12 +30,6 @@
 ### GitHub Stats
 <p align="center">
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=revandaph&layout=compact&bg_color=fff6f7&title_color=f4a9b8&text_color=6e5c5c" 
-    height="160"
-  />
-
   <!-- Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=revandaph&background=fff6f7&ring=f4a9b8&fire=f4a9b8&currStreakLabel=f4a9b8&sideNums=6e5c5c&sideLabels=f4a9b8" 
